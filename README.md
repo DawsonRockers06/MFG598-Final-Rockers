@@ -28,7 +28,19 @@ The dataset is sourced from a ZIP archive containing annual AQI CSV files for al
 - [Final Code](FinalCode.py) – The main Python script that generates the plot.
 - [Compiled Test Files](AllTestFiles) - A file containing all of the tesst files leading up to the final python file
 - [ReadMe](README.md) – This file.
-    
+
+## Instrutions To Run Code
+- Open VSCode
+- Ctrl + Shift + P and type "Clone" to open the Github Clone Repository Option
+- Copy/Paste this Github's Repository URL
+- Run:
+
+        pip install -r requirements.txt
+
+- Open [FinalCode.py](FinalCode.py) and click "Run"
+- In the terminal, type
+
+        streamlit run FinalCode.py
 ## 📌 Key Features
 
 - Interactive AQI Data Exploration: Select U.S. states and counties to visualize Air Quality Index (AQI) data across a 25-year period.
