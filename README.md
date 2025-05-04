@@ -21,7 +21,10 @@ The goal of this project was to create a data-driven interactive tool that enabl
 The dataset is sourced from a ZIP archive containing annual AQI CSV files for all U.S. counties from the past 25 years. The app automatically unzips and aggregates the data for seamless analysis.
 
 ## 📁 Repository Contents
+- [Requirements](requirements.txt) - This file must be installed using -
 
+        pip install -r requirements.txt
+  before the "Final Code" will work.
 - [Final Code](FinalCode.py) – The main Python script that generates the plot.
 - [Compiled Test Files](AllTestFiles) - A file containing all of the tesst files leading up to the final python file
 - [ReadMe](README.md) – This file.
