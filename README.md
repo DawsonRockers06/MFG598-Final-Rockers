@@ -46,7 +46,7 @@ The dataset is sourced from a ZIP archive containing annual AQI CSV files for al
 
 ## 👨‍🎓 Author
 
-Dawson Rockers
-Senior, Robotics Engineering
-Arizona State University – Polytechnic Campus
-Email: drockers16@gmail.com
+- Dawson Rockers
+- Senior, Robotics Engineering
+- Arizona State University – Polytechnic Campus
+- Email: drockers16@gmail.com
