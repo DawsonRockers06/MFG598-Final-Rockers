@@ -42,7 +42,7 @@ The dataset is sourced from a ZIP archive containing annual AQI CSV files for al
 
 ## 🛠 Tools Used
     
-- Python 3.x
+- Python 3.12.2
 
 ## 👨‍🎓 Author
 
