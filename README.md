@@ -22,9 +22,9 @@ The dataset is sourced from a ZIP archive containing annual AQI CSV files for al
 
 ## 📁 Repository Contents
 
-- [Final Code](MFG598-Final-Rockers/FinalCode.py) – The main Python script that generates the plot.
-- [Compiled Test Files](MFG598-Final-Rockers/AllTestFiles) - A file containing all of the tesst files leading up to the final python file
-- [ReadMe](MFG598-Final-Rockers/README.md) – This file.
+- [Final Code](FinalCode.py) – The main Python script that generates the plot.
+- [Compiled Test Files](AllTestFiles) - A file containing all of the tesst files leading up to the final python file
+- [ReadMe](README.md) – This file.
     
 ## 📌 Key Features
 
